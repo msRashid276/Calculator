@@ -1,0 +1,13 @@
+.cal{
+    width: 370px;
+    height: 570px;
+    background-color: rgb(5, 5, 78);
+    border-radius: 10px 10px 10px 10px;
+    
+}
+.butt{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    font-weight: bold;
+}
